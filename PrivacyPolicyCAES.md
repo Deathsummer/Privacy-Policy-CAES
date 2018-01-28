@@ -1,6 +1,5 @@
 # Privacy-Policy-CAES
-Privacy Policy
-c.a.e.s. Privacy Policy
+Chemical Studios Privacy Policy
 This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
 What personal information do we collect from the people that visit our blog, website or app?
@@ -126,8 +125,8 @@ Contacting Us
 
 If there are any questions regarding this privacy policy, you may contact us using the information below.
 
-C.A.E.S.
-Rua Santo Pinto
+Chemical Studios
+Rua Santo Pinto, 35, 405D
 Serra, ES 29176011
 Brasil
 chemical_studios@hotmail.com
